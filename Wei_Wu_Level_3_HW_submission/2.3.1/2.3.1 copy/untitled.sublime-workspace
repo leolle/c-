@@ -1,0 +1,542 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"b"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"pi",
+				"printNum"
+			],
+			[
+				"ara",
+				"array_x"
+			],
+			[
+				"ar",
+				"array_x"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"main",
+				"__main__"
+			],
+			[
+				"print",
+				"printNum"
+			],
+			[
+				"T",
+				"template"
+			],
+			[
+				"prin",
+				"printNum"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 1832,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Point.cpp",
+			"settings":
+			{
+				"buffer_size": 1321,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "point.hpp",
+			"settings":
+			{
+				"buffer_size": 888,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++_terminal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++_terminal.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/g++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/g++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++_terminal.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/g++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/g++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/g++.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++_terminal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++_terminal.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++_terminal.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/g++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/g++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/g++.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 372.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 404.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_3_HW_submission/2.3.1/2.3.1 copy"
+	],
+	"file_history":
+	[
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_2_HW_submission/1.9.2/1.9.2.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_2_HW_submission/1.9.1/1.9.1.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_2_HW_submission/1.8.1/1.8.1.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_2_HW_submission/1.7.4/1.7.4.cpp",
+		"/Users/wuwei/Documents/python/test/kelly.py",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_2_HW_submission/1.7.1/1.7.1.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_2_HW_submission/1.7.1/linear.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_2_HW_submission/1.7.1/linear2.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_2_HW_submission/1.6.2/Defs.h",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_2_HW_submission/1.6.2/macro.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_2_HW_submission/1.6.1/macro.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_2_HW_submission/1.6.1/Defs.h",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.5/1.5.4/1.5.4.1.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.5/1.5.3/Print.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.5/1.5.3/Header.h",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.5/1.5.3/Main.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.5/1.5.2/1.5.2.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.5/1.5.1/1.5.1.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.5/1.5.1/untitled.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.4/1.4.7/1.4.7.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.4/1.4.6/freq.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.4/1.4.5/untitled.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.4/1.4.5/1.4.5.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.4/1.4.4/untitled.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.4/1.4.4/1.4.4.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.4/1.4.3/1.4.3.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.4/1.4.2/1.4.2.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.4/1.4.1/1.4.1.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.3/sublime/point.hpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.3/sublime/Point.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.3/sublime/main.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.3/sublime/x.hpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.3/sublime/x.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.3/sublime/test.sublime-workspace",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.3/1.3.1/s.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.3/sublime/untitled.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_3_HW_submission/2.2.1/2.2.1/point.hpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_3_HW_submission/2.2.1/2.2.1/main.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_3_HW_submission/2.2.1/2.2.1/Point.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.3/1.3.1/1.3.1.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.3/1.3.1/print.sublime-project",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_1_HW_submission/1.3/1.3.1/1.3.1",
+		"/Users/wuwei/Documents/C++/test/fibo.cpp",
+		"/Users/wuwei/Documents/C++/test/fibo",
+		"/Users/wuwei/Documents/C++/test/sort.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_2_HW_submission/1.7.3/1.7.3.cpp",
+		"/Users/wuwei/Documents/C++/test/minefield.cpp",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_2_HW_submission/1.6.2/1.6.2.sublime-project",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_2_HW_submission/1.6.2/macro",
+		"/Users/wuwei/Documents/C++/test/mine.py",
+		"/Users/wuwei/Documents/C++/test/test.cpp",
+		"/Users/wuwei/Documents/C++/test/pi monte carlo simulation.py",
+		"/Users/wuwei/Documents/C++/test/prime_number.cpp",
+		"/Users/wuwei/Documents/C++/test/binary tree.cpp",
+		"/Users/wuwei/Documents/python/test/primefactors2.py",
+		"/Users/wuwei/Documents/C++/test/pi2.py",
+		"/Users/wuwei/Documents/C++/test/pi.py",
+		"/Users/wuwei/Documents/C++/test/factorial.cpp",
+		"/Users/wuwei/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/wuwei/Documents/python/test/primefactors3.py",
+		"/Users/wuwei/Documents/python/untitled",
+		"/Users/wuwei/Documents/C++/test/char_limit.cpp",
+		"/Users/wuwei/Documents/C++/test/pointer_function.cpp",
+		"/Users/wuwei/Documents/C++/test/pointer_func_template.cpp",
+		"/Users/wuwei/Google Drive/courses/Numerical Linear Algebra/matlab/forward_subst.m",
+		"/Users/wuwei/Library/Application Support/Sublime Text 3/Packages/User/g++.sublime-build",
+		"/Users/wuwei/Google Drive/courses/Advanced Calculus/quiz/ac_convergence.py",
+		"/Users/wuwei/Google Drive/courses/Advanced Calculus/hw5_newton.py",
+		"/Users/wuwei/Downloads/vpn.bat",
+		"/Users/wuwei/Google Drive/courses/C++ (1)/Wei_Wu_Level_4_HW_submission/2.4.4/2.4.4/point.hpp",
+		"/Users/wuwei/anaconda/pkgs/statsmodels-0.6.1-np110py27_0/lib/python2.7/site-packages/statsmodels/tools/tools.py",
+		"/Users/wuwei/anaconda/pkgs/statsmodels-0.6.1-np110py27_0/lib/python2.7/site-packages/statsmodels/stats/contrast.py",
+		"/Users/wuwei/anaconda/pkgs/statsmodels-0.6.1-np110py27_0/lib/python2.7/site-packages/statsmodels/sandbox/contrast_old.py",
+		"/Users/wuwei/anaconda/pkgs/sympy-0.7.6.1-py27_0/lib/python2.7/site-packages/sympy/assumptions/ask.py",
+		"/Users/wuwei/anaconda/pkgs/sympy-0.7.6.1-py27_0/lib/python2.7/site-packages/sympy/assumptions/ask_generated.py",
+		"/Users/wuwei/anaconda/pkgs/sympy-0.7.6.1-py27_0/lib/python2.7/site-packages/sympy/assumptions/tests/test_matrices.py",
+		"/Users/wuwei/anaconda/pkgs/statsmodels-0.6.1-np110py27_0/lib/python2.7/site-packages/statsmodels/stats/multivariate_tools.py",
+		"/Users/wuwei/anaconda/pkgs/statsmodels-0.6.1-np110py27_0/lib/python2.7/site-packages/statsmodels/tools/tests/test_tools.py",
+		"/Users/wuwei/anaconda/pkgs/sympy-0.7.6.1-py27_0/lib/python2.7/site-packages/sympy/assumptions/handlers/matrices.py",
+		"/Users/wuwei/Google Drive/courses/Advanced Calculus/ac_hw2_bonds.py",
+		"/Users/wuwei/Google Drive/courses/Advanced Calculus/numeric_integration_example_hw2_q5.py",
+		"/Users/wuwei/Google Drive/courses/Advanced Calculus/bonds.py",
+		"/Users/wuwei/Google Drive/courses/Advanced Calculus/bootstrap_yield.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Pt",
+			"c",
+			"r",
+			"fullran"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Point",
+			"col",
+			"row"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1832,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1474,
+								1474
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 462.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Point.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1321,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "point.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 888,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 196.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 232.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
